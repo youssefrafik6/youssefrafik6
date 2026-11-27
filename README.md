@@ -11,6 +11,6 @@ Data Science graduate from Southern Connecticut State University. I build reprod
 | [AmesValue AI](https://github.com/youssefrafik6/amesvalue-ai) | Reproduces an R housing regression study and serves a Python valuation model with prediction intervals for historical Ames sales. | |
 | [BatteryLife AI](https://github.com/youssefrafik6/battery-life-ai) | Estimates battery drain from Android telemetry and simulates charge under different usage scenarios. | |
 | [Crop Disease Detection](https://github.com/youssefrafik6/crop-disease-detection) | Compares classical and neural models for binary leaf-image classification on PlantVillage. | |
-| [Medical Insurance Cost Analytics](https://github.com/youssefrafik6/medical-insurance-cost-analytics) | Reproduces observational charge-distribution comparisons independently in R and Python, with DuckDB and Quarto reporting. | |
+| [Medical Insurance Cost Analytics](https://github.com/youssefrafik6/medical-insurance-cost-analytics) | Reproduces observational charge-distribution comparisons independently in R and Python, with DuckDB and Quarto reporting. | [Live demo](https://medical-insurance-cost-analytics-hwvatcroxxhihuzadzb69w.streamlit.app/) |
 
 **DataPulse** is a private data engineering project that uses PostgreSQL and dbt to analyze historical U.S. tech and data job postings.
